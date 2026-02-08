@@ -153,7 +153,7 @@ const PROJECTS_ZH: Project[] = [
 ];
 
 const SYSTEM_INSTRUCTION_ZH = `
-你是 Ethan Dior 个人作品集网站的 AI 助手。
+你是 Ethan Tiao 个人作品集网站的 AI 助手。
 你的目标是以友好、专业且简洁的方式回答有关 Ethan 职业背景、技能和项目的问题。
 请用中文回答，保持简短（100字以内）。
 `;
@@ -163,7 +163,7 @@ const SYSTEM_INSTRUCTION_ZH = `
 export const DATA: Record<'en' | 'zh', PortfolioData> = {
   en: {
     profile: {
-      name: "Ethan Dior",
+      name: "Ethan Tiao",
       role: "Builder and AI Product Manager",
       bio: "Exploring the intersection of artificial intelligence and decentralized finance. Building products that bridge the gap between complex algorithms and human needs.",
       avatar: AVATAR,
