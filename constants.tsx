@@ -7,7 +7,7 @@ const EMAIL = "diaoyichao1995@gmail.com";
 const SOCIALS_DATA: SocialLink[] = [
   { platform: "GitHub", url: "https://github.com/VaingloryD", icon: Github, username: "@ethandior" },
   // { platform: "Twitter", url: "https://twitter.com", icon: Twitter, username: "@ethan_dior" },
-  { platform: "LinkedIn", url: "www.linkedin.com/in/逸超-刁-75858a195", icon: Linkedin, username: "Ethan Dior" },
+  { platform: "LinkedIn", url: "https://www.linkedin.com/in/逸超-刁-75858a195", icon: Linkedin, username: "Ethan Dior" },
   { platform: "Email", url: `mailto:${EMAIL}`, icon: Mail, username: EMAIL },
 ];
 
