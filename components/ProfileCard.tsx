@@ -63,7 +63,8 @@ const ProfileCard: React.FC = () => {
             src={profile.avatar} 
             alt={profile.name} 
             className={`w-full h-full object-cover ${
-    language === 'en' ? 'object-top' : 'object-center'
+    // 这里使用自定义百分比：center 代表水平居中，20% 代表垂直方向的位置
+    language === 'en' ? 'object-[center_20%]' : 'object-center'
   } dark:grayscale-[0.2] hover:grayscale-0 transition-all duration-700`}
           />
         </div>
