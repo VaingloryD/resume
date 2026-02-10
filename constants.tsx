@@ -2,7 +2,8 @@ import { Github, Twitter, Linkedin, Mail, Globe } from 'lucide-react';
 import { PortfolioData, SocialLink, Skill, Experience, Project } from './types';
 
 // Shared Data
-const AVATAR = "https://pic1.imgdb.cn/item/69846e4e013471eb7b528b37.jpg";
+const AVATAR_EN = "https://pic1.imgdb.cn/item/698b0c6b8b2d4ec3cdd84b87.png";
+const AVATAR_CN = "https://pic1.imgdb.cn/item/69846e4e013471eb7b528b37.jpg";
 const EMAIL = "diaoyichao1995@gmail.com";
 const SOCIALS_DATA: SocialLink[] = [
   { platform: "GitHub", url: "https://github.com/VaingloryD", icon: Github, username: "@ethandior" },
@@ -166,7 +167,7 @@ export const DATA: Record<'en' | 'zh', PortfolioData> = {
       name: "Ethan Tiao",
       role: "Builder and AI Product Manager",
       bio: "Exploring the intersection of artificial intelligence and decentralized finance. Building products that bridge the gap between complex algorithms and human needs.",
-      avatar: AVATAR,
+      avatar: AVATAR_EN,
       location: "Suzhou, CN",
       email: EMAIL
     },
@@ -192,7 +193,7 @@ export const DATA: Record<'en' | 'zh', PortfolioData> = {
       name: "逸超",
       role: "AI产品经理，知识分享者",
       bio: "探索人工智能应用前沿领域。专注AI智能系统落地，致力于连接 AI 与人类需求，让技术创造更大价值。",
-      avatar: AVATAR,
+      avatar: AVATAR_CN,
       location: "中国 苏州",
       email: EMAIL
     },
