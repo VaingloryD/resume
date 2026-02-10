@@ -62,7 +62,9 @@ const ProfileCard: React.FC = () => {
           <img 
             src={profile.avatar} 
             alt={profile.name} 
-            className="w-full h-full object-cover dark:grayscale-[0.2] hover:grayscale-0 transition-all duration-700"
+            className={`w-full h-full object-cover ${
+    language === 'en' ? 'object-top' : 'object-center'
+  } dark:grayscale-[0.2] hover:grayscale-0 transition-all duration-700`}
           />
         </div>
         {/* Subtle glow behind photo */}
