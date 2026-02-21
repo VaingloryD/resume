@@ -1,4 +1,4 @@
 <div align="center">
-AI productivity & creativity
-Vibe code and create content
+AI productivity & creativity<br>
+Vibe code and create content<br>
 Open to work
