@@ -83,7 +83,7 @@ const PROJECTS_EN: Project[] = [
     title: "Amber Glade Village",
     description: "An AI-driven pixel RPG featuring story, combat, and commerce, fostering financial literacy and mathematical skills for teenagers.",
     tags: ["Mobile App", "Steam game"，"Neural Narratives (AI-Powered NPCs)"],
-    image: "https://pic1.imgdb.cn/item/6985abd4f8ef6591278d49a7.png"
+    image: "https://pic1.imgdb.cn/item/6999531ad908540f9e201820.png"
 
   },
   {
