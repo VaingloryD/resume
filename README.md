@@ -1,3 +1,4 @@
 <div align="center">
-this is my resume
-
+AI productivity & creativity
+Vibe code and create content
+Open to work
