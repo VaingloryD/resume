@@ -80,10 +80,11 @@ const EXPERIENCE_EN: Experience[] = [
 const PROJECTS_EN: Project[] = [
   {
     id: "1",
-    title: "VisionEye – Ophthalmology Detection System",
-    description: "An AI-powered ophthalmology detection system built with PyTorch to analyze medical images and identify retinal abnormalities, improving diagnostic accuracy and efficiency.",
-    tags: ["AI", "Medical Imaging", "PyTorch"],
-    image: "https://pic1.imgdb.cn/item/69859e34f8ef6591278cfe08.png"
+    title: "Amber Glade Village",
+    description: "An AI-driven pixel RPG featuring story, combat, and commerce, fostering financial literacy and mathematical skills for teenagers.",
+    tags: ["Mobile App", "Steam game"，"Neural Narratives (AI-Powered NPCs)"],
+    image: "https://pic1.imgdb.cn/item/6985abd4f8ef6591278d49a7.png"
+
   },
   {
     id: "2",
@@ -95,11 +96,10 @@ const PROJECTS_EN: Project[] = [
   },
   {
     id: "3",
-    title: "TradeLog",
-    description: "A mobile trading journal app that allows users to record trading plans, executions, and post-trade reviews for better strategy refinement.",
-    tags: ["Mobile App", "FinTech", "Analytics"],
-    image: "https://pic1.imgdb.cn/item/6985abd4f8ef6591278d49a7.png",
-    link: "#"
+    title: "VisionEye – Ophthalmology Detection System",
+    description: "An AI-powered ophthalmology detection system built with PyTorch to analyze medical images and identify retinal abnormalities, improving diagnostic accuracy and efficiency.",
+    tags: ["AI", "Medical Imaging", "PyTorch"],
+    image: "https://pic1.imgdb.cn/item/69859e34f8ef6591278cfe08.png"
   }
 ];
 
